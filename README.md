@@ -3,7 +3,7 @@
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavianoSilva&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavianoSilva&layout=donut&theme=midnight-purple&hide=powershell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavianoSilva&layout=donut&theme=midnight-purple&hide=powershell,batchfile,procfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
